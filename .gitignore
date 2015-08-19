@@ -1,2 +1,5 @@
 /.idea/
 pom.xml
+.idea/workspace.xml
+/target
+.gitignore
